@@ -27,5 +27,23 @@
     "mocha": "*",
     "supertest": "^1.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "base",
+    "base-bot",
+    "bot",
+    "connect",
+    "express",
+    "github",
+    "githubbot",
+    "middleware"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "githubbot",
+        "connect",
+        "express"
+      ]
+    }
+  }
 }
