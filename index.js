@@ -12,7 +12,7 @@
  * connect/express middleware functions to handle github webhook event payloads.
  *
  * ```js
- * bot.use(require('githubbot-connect')(options));
+ * bot.use(githubbotConnect(options));
  * ```
  *
  * @param  {Object} `options` Options to configure the plugin.
