@@ -21,8 +21,11 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "githubbot": "^0.1.2",
     "mocha": "*",
-    "should": "*"
+    "supertest": "^1.1.0"
   },
   "keywords": []
 }
